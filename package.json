@@ -8,7 +8,7 @@
     "server": "nodemon index.js",
     "client": "npm run start --prefix client",
     "start": "node ./index.js",
-    "dev": "nodemon index.js"
+    "dev": "nodemon ./index.js"
   },
   "author": "",
   "license": "ISC",
